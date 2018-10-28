@@ -1,0 +1,1 @@
+# code-for-entering-sentences-in-string-with-using-scanf.md
